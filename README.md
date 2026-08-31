@@ -5,9 +5,7 @@ Trong bối cảnh chuyển đổi số trong giáo dục ngày càng phát tri�
 
 Website cho phép sinh viên quản lý thông tin môn học, số tín chỉ, điểm số và theo dõi GPA theo từng học kỳ cũng như GPA tích lũy. Thông qua hệ thống, sinh viên có thể nắm bắt tiến độ học tập, đánh giá kết quả hiện tại và xây dựng kế hoạch cải thiện kết quả trong các học kỳ tiếp theo.
 
-Mục tiêu dự án
-
-Dự án được thực hiện với các mục tiêu chính:
+Chức năng:
 
 Xây dựng website hỗ trợ sinh viên quản lý thông tin học tập.
 Quản lý danh sách môn học và số tín chỉ.
@@ -16,8 +14,6 @@ Tự động tính toán GPA theo học kỳ và GPA tích lũy.
 Hỗ trợ sinh viên theo dõi tiến độ học tập.
 Hạn chế sai sót khi tính toán GPA thủ công.
 Cung cấp giao diện trực quan, dễ sử dụng.
-
-Đối tượng sử dụng: Sinh viên
 
 Phạm vi dự án
 
@@ -31,3 +27,10 @@ Theo dõi tiến độ học tập.
 Hiển thị thông tin kết quả học tập một cách trực quan.
 
 Cấu trúc thư mục
+
+Thành viên:
+1. Lê Quỳnh Anh
+2. Ngô Huyền Anh
+3. Lê Ngọc Ánh
+4. Phan Kim Chi
+5. Nguyễn Hoài Thương
